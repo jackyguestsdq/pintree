@@ -202,55 +202,6 @@
       },
       {
         "type": "link",
-        "addDate": 1751248813624,
-        "title": "腾讯元宝 - 轻松工作 多点生活",
-        "icon": "https://logo.clearbit.com/yuanbao.tencent.com",
-        "url": "https://yuanbao.tencent.com/chat/naQivTmsDa"
-      },
-      {
-        "type": "link",
-        "addDate": 1751272092306,
-        "title": "聚水潭开放平台",
-        "icon": "https://logo.clearbit.com/openweb.jushuitan.com",
-        "url": "https://openweb.jushuitan.com/index"
-      },
-      {
-        "type": "link",
-        "addDate": 1753257304145,
-        "title": "合思开放平台",
-        "icon": "https://logo.clearbit.com/docs.ekuaibao.com",
-        "url": "https://docs.ekuaibao.com/docs/open-api/flows/info"
-      },
-      {
-        "type": "link",
-        "addDate": 1753336425894,
-        "title": "API - 法大大电子合同和电子签云平台",
-        "icon": "https://logo.clearbit.com/dev.fadada.com",
-        "url": "https://dev.fadada.com/api-doc/ALGPB7Z1FD/TA0WHTSXQYL0NQRB/5-1"
-      },
-      {
-        "type": "link",
-        "addDate": 1753336440803,
-        "title": "法大大体验中心",
-        "icon": "https://logo.clearbit.com/uat-dev.fadada.com",
-        "url": "https://uat-dev.fadada.com/demo/sales/"
-      },
-      {
-        "type": "link",
-        "addDate": 1753670514758,
-        "title": "法大大电子签集成应用",
-        "icon": "https://logo.clearbit.com/uat-cloud.fadada.com",
-        "url": "https://uat-cloud.fadada.com/work/custom/application-manage/detail/80003372?appType=0"
-      },
-      {
-        "type": "link",
-        "addDate": 1753844062932,
-        "title": "DeepSeek | 深度求索",
-        "icon": "https://logo.clearbit.com/www.deepseek.com",
-        "url": "https://www.deepseek.com/"
-      },
-      {
-        "type": "link",
         "addDate": 1753857868355,
         "title": "Univer",
         "icon": "https://logo.clearbit.com/docs.univer.ai",
@@ -321,17 +272,94 @@
       },
       {
         "type": "link",
-        "addDate": 1769343729107,
-        "title": "API - 法大大电子合同和电子签云平台",
-        "icon": "https://logo.clearbit.com/dev.fadada.com",
-        "url": "https://dev.fadada.com/api-guide/YYNLQW2Z2W/9QMQ2MU4FGK3AOXA"
-      },
-      {
-        "type": "link",
         "addDate": 1769863194636,
         "title": "A longer introduction | n8n Docs",
         "icon": "https://logo.clearbit.com/docs.n8n.io",
         "url": "https://docs.n8n.io/try-it-out/tutorial-first-workflow/"
+      },
+      {
+        "type": "folder",
+        "addDate": 1770288936348,
+        "title": "API接口",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1751272092306,
+            "title": "聚水潭开放平台",
+            "icon": "https://logo.clearbit.com/openweb.jushuitan.com",
+            "url": "https://openweb.jushuitan.com/index"
+          },
+          {
+            "type": "link",
+            "addDate": 1753257304145,
+            "title": "合思开放平台",
+            "icon": "https://logo.clearbit.com/docs.ekuaibao.com",
+            "url": "https://docs.ekuaibao.com/docs/open-api/flows/info"
+          },
+          {
+            "type": "link",
+            "addDate": 1769343729107,
+            "title": "API - 法大大电子合同和电子签云平台",
+            "icon": "https://logo.clearbit.com/dev.fadada.com",
+            "url": "https://dev.fadada.com/api-guide/YYNLQW2Z2W/9QMQ2MU4FGK3AOXA"
+          },
+          {
+            "type": "link",
+            "addDate": 1753670514758,
+            "title": "法大大电子签集成应用",
+            "icon": "https://logo.clearbit.com/uat-cloud.fadada.com",
+            "url": "https://uat-cloud.fadada.com/work/custom/application-manage/detail/80003372?appType=0"
+          },
+          {
+            "type": "link",
+            "addDate": 1753336425894,
+            "title": "API - 法大大电子合同和电子签云平台",
+            "icon": "https://logo.clearbit.com/dev.fadada.com",
+            "url": "https://dev.fadada.com/api-doc/ALGPB7Z1FD/TA0WHTSXQYL0NQRB/5-1"
+          },
+          {
+            "type": "link",
+            "addDate": 1753336440803,
+            "title": "法大大体验中心",
+            "icon": "https://logo.clearbit.com/uat-dev.fadada.com",
+            "url": "https://uat-dev.fadada.com/demo/sales/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1770288622726,
+        "title": "AI",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1753844062932,
+            "title": "DeepSeek | 深度求索",
+            "icon": "https://logo.clearbit.com/www.deepseek.com",
+            "url": "https://www.deepseek.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1770288702479,
+            "title": "豆包 - 字节跳动旗下 AI 智能助手",
+            "icon": "https://logo.clearbit.com/www.doubao.com",
+            "url": "https://www.doubao.com/chat/"
+          },
+          {
+            "type": "link",
+            "addDate": 1770288789909,
+            "title": "Gemini官网 - gemini 2.5 pro人工智能模型",
+            "icon": "https://logo.clearbit.com/gemini-pro.cn",
+            "url": "https://gemini-pro.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1751248813624,
+            "title": "腾讯元宝 - 轻松工作 多点生活",
+            "icon": "https://logo.clearbit.com/yuanbao.tencent.com",
+            "url": "https://yuanbao.tencent.com/chat/naQivTmsDa"
+          }
+        ]
       }
     ]
   }
